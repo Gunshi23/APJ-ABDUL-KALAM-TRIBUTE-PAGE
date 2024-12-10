@@ -1,0 +1,67 @@
+.a{
+    display:flex;
+}
+
+.b{
+    
+    width: 50%;
+    
+}
+
+.c{
+    width: 700px;
+}
+
+.d{
+    margin-left: 1%;
+    width:780px;
+
+    
+}
+.heading{
+    margin-left: 20%;
+    
+}
+
+.name{
+    margin-left: 60%;
+    text-align: right;
+
+}
+
+body{
+    background-color: rgb(2, 33, 9);
+}
+
+.college{
+    background-color: rgb(254, 190, 112);
+
+    margin-top: 0%;
+    margin: 0%;
+    height: 70px;
+    width:1508px;
+    font-weight: bolder;
+    align-content: flex-end;
+    align-items: flex-start;
+    align-items: flex-end;
+
+}
+
+li::before{
+    display: block;
+}
+
+.foot{
+    background-color: antiquewhite;
+    margin-top: 0%;
+    align-content: flex-end;
+    align-items: flex-start;
+    align-items: flex-end;
+}
+
+.quote{
+    background-color: rgb(245, 207, 19);
+    height: 40px;
+    margin: 0%;
+}
+
